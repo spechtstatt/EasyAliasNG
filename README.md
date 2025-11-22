@@ -1,6 +1,6 @@
 # EasyAlias (Fork)
 
-Forked because the original git repo does not support the handling of apostrophes. 
+Sinply forked because the original git repo does not support the handling of apostrophes. 
 
 Original macro documentation:  
 https://wiki.freecadweb.org/Macro_EasyAlias
