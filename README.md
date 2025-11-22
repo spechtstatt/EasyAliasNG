@@ -31,22 +31,20 @@ The macro will:
 
 ## Example
 
-| Cell | Content | Alias |
-|------|---------|--------|
-| A1 | `radius` | *(none)* |
-| B1 | `5` | `radius` |
-| A2 | `height` | *(none)* |
-| B2 | `15` | `height` |
+|  | A         | B        | 
+|--|-----------|----------|
+|1 | 'radius   | 10       |
+|2 | 'length   | 42       |
 
 **With EasyAlias:**
 
-1. Fill in A1/B1 and A2/B2  
+1. Fill A1/A2
 2. Select A1:A2  
 3. Run the macro  
 
-Aliases are set automatically:
+Aliases in column B are set automatically:
 - B1 → `radius`
-- B2 → `height`
+- B2 → `length`
 
 ---
 
