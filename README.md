@@ -18,7 +18,7 @@ Instead of manually assigning aliases through the GUI, you can:
 
 1. Enter text into a column (e.g. column **A**).
 2. Enter values or formulas into the next column (e.g. column **B**).
-3. Select the text cells.
+3. Select the text cells (in e.g. column **A**)
 4. Run **EasyAlias**.
 
 The macro will:
