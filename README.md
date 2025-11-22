@@ -33,8 +33,8 @@ The macro will:
 
 |  | A         | B        | 
 |--|-----------|----------|
-|1 | 'radius   | 10       |
-|2 | 'length   | 42       |
+|1 | radius   | 10       |
+|2 | length   | 42       |
 
 **With EasyAlias:**
 
