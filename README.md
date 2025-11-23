@@ -1,4 +1,4 @@
-# EasyAlias (Fork)
+# EasyAliasNG (Fork)
 
 Simply forked because the original git repo does not support the handling of apostrophes which are automatically added by FreeCAD when entering text into cells. 
 
@@ -10,9 +10,9 @@ Forked here:
 
 ---
 
-## What EasyAlias Does
+## What EasyAliasNG Does
 
-**EasyAlias** automates the creation of spreadsheet cell aliases in FreeCAD.
+**EasyAliasNG** automates the creation of spreadsheet cell aliases in FreeCAD.
 
 Instead of manually assigning aliases through the GUI, you can:
 
