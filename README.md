@@ -6,7 +6,7 @@ Original macro documentation:
 https://wiki.freecadweb.org/Macro_EasyAlias
 
 Forked here:  
-**https://github.com/spechtstatt/EasyAlias**
+**https://github.com/spechtstatt/EasyAliasNG**
 
 ---
 
