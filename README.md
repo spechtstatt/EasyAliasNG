@@ -1,12 +1,13 @@
 # EasyAliasNG (Fork)
+**https://github.com/spechtstatt/EasyAliasNG**
 
-Simply forked because the original git repo does not support the handling of apostrophes which are automatically added by FreeCAD when entering text into cells. 
+Forked version of EasyAlias. Adds 
+- the possibility to execute the macro without selectin the spreadsheet explicitely
+- better error message in case of duplicates
+- correct handling of apostrophes (original git repo does not include this)
 
 Original macro documentation:  
 https://wiki.freecadweb.org/Macro_EasyAlias
-
-Forked here:  
-**https://github.com/spechtstatt/EasyAliasNG**
 
 ---
 
