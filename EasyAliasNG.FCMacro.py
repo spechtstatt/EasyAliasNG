@@ -4,7 +4,7 @@ import re
 from PySide import QtGui
 
 """
-EasyAlias.FCMacro.py
+EasyAliasNG.FCMacro.py
 
 This macro can be used to easily create aliases based on the contents of selected spreadsheet
 cells in the previous column. As an example, suppose you wish to have the following:
@@ -12,46 +12,13 @@ cells in the previous column. As an example, suppose you wish to have the follow
 A1: content = 'radius', B1: content = '5', alias = 'radius'
 A2: content = 'height', B1: content = '15', alias = 'height'
 
-The traditional way to set this up would be:
-Select A1
-Enter radius
-Select B1
-Enter 5
-Right-click B1
-Select properties
-Select Alias
-Enter radius
-click OK
-Select A2
-Enter height
-Select B2
-Enter 15
-Right-click B2
-Select Properties
-Select Alias
-Enter height
-Click OK
-
-Using this macro, the work flow becomes:
-Select A1
-Enter radius
-Select B1
-Enter 5
-Select A2
-Enter height
-Select B2
-Enter 15
-Select A1 through A2
-Run the EasyAlias macro
-Done
-
 """
 
-__title__ = "EasyAlias"
-__author__ = "TheMarkster"
-__url__ = "https://wiki.freecadweb.org/Macro_EasyAlias"
-__Wiki__ = "https://wiki.freecadweb.org/Macro_EasyAlias"
-__date__ = "2022.07.31" #year.month.date
+__title__ = "EasyAliasNG"
+__author__ = "Spechtstatt"
+__url__ = "https://github.com/spechtstatt/EasyAliasNG"
+__Wiki__ = "https://github.com/spechtstatt/EasyAliasNG"
+__date__ = "2025.11.23" #year.month.date
 __version__ = __date__
 
 CELL_ADDR_RE = re.compile(r"([A-Za-z]+)([1-9]\d*)")
