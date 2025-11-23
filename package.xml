@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package format="1"
+         xmlns="http://www.freecadweb.org/wiki/Package">
+  <name>EasyAliasNG</name>
+  <type>macro</type>
+
+  <description>
+    Easy creation of spreadsheet cell aliases from the text in the left neighbour cell.
+  </description>
+
+  <maintainer>spechtstatt</maintainer>
+  <license>-</license>
+
+  <version>2025.11.23</version>
+  <date>2025-11-23</date>
+
+  <files>
+    <file>EasyAlias.FCMacro.py</file>
+  </files>
+</package>
