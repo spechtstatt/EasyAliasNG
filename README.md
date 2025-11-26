@@ -1,8 +1,10 @@
 # EasyAliasNG (Fork)
 **https://github.com/spechtstatt/EasyAliasNG**
 
+REMARK: Work in progress - so some stuff may not work - yet
+
 Forked version of EasyAlias. Adds 
-- the possibility to execute the macro without selectin the spreadsheet explicitely
+- the possibility to execute the macro without selecting the spreadsheet explicitely
 - better error message in case of duplicates
 - correct handling of apostrophes (original git repo does not include this)
 
